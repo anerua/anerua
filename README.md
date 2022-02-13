@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martins Anerua
-- 👀 I’m interested in Software and Hardware projects
-- 💞️ I’m looking to collaborate on Java, Python, C++ and Web projects
+- 👀 I’m interested in Python and JS projects
 - 📫 You can reach me at aneruamartins@gmail.com
 
 <!---
