@@ -7,7 +7,7 @@
 
 👋 `@anerua`
 
-💻 `Python, JS and PHP`
+💻 `Python, JS, PHP, Java and C++`
 
 <!---
 anerua/anerua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
